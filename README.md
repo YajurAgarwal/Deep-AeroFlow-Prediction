@@ -1,6 +1,6 @@
 # Deep-AeroFlow: Deep Learning for Aircraft Fluid Flow Prediction
 
-![Deep-AeroFlow Logo](deepaeroflow logo.png)
+![Deep-AeroFlow Logo]('deepaeroflow logo.png')
 
 Deep-AeroFlow is a machine learning project that aims to predict fluid flow patterns on airplanes using deep learning techniques. By leveraging neural networks and advanced modeling, Deep-AeroFlow provides insights into aerodynamics and helps enhance aircraft performance.
 
