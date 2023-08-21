@@ -36,15 +36,15 @@ To use Deep-AeroFlow for predicting fluid flow on airplanes:
 
    
 ## Features and Highlights
-1. **Advanced deep learning model architecture:** Our project employs a multi-layer perceptron (MLP) neural network architecture to effectively capture complex relationships within the fluid flow data.
+1. **Advanced deep learning model architecture:**
 
-2. **Efficient preprocessing of fluid flow data:** The project includes a data preprocessing pipeline that transforms raw data into a suitable format for training the deep learning model. This pipeline ensures data quality and enhances prediction accuracy.
+2. **Efficient preprocessing of fluid flow data:**
 
-3. **Comprehensive data analysis:** Extensive data analysis was conducted to uncover valuable insights about fluid flow patterns and relationships with aircraft parameters. This analysis informed our preprocessing and modeling decisions, leading to more accurate predictions.
+3. **Comprehensive data analysis:**
 
-4. **Metrics calculation and evaluation:** The project calculates key metrics such as Root Mean Squared Error (RMSE) and Precision, Recall, and F1 Score to assess the model's performance. These metrics provide a quantitative measure of predictive accuracy.
+4. **Metrics calculation and evaluation:**
 
-5. **Visualization of prediction result:** Our project includes visualization tools to showcase prediction results. Screenshots of error histograms, histograms, and loss vs. epoch plots provide visual insights into the model's performance.
+5. **Visualization of prediction result:**
 
 
 ## Data Analysis
@@ -54,7 +54,7 @@ Understanding the dataset is a crucial step in our project. We performed extensi
 - Correlation analysis to identify key relationships between variables.
 - Data visualization through scatter plots, line plots, and more.
 - Feature importance analysis to determine influential predictors.
-- 
+
 These insights guided our preprocessing and modeling strategies, enhancing the effectiveness of our predictions.
 
 ## Screenshots
