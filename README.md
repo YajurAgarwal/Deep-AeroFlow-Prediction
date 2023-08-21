@@ -9,6 +9,7 @@ Deep-AeroFlow is a machine learning project that aims to predict fluid flow patt
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features and Highlights](#features-and-highlights)
+- [Data Analysis](#data-analysis)
 - [Screenshots](#screenshots)
 - [Technical Details](#technical-details)
 - [Evaluation Metrics and Results](#evaluation-metrics-and-results)
@@ -35,10 +36,26 @@ To use Deep-AeroFlow for predicting fluid flow on airplanes:
 
    
 ## Features and Highlights
-1. Advanced deep learning model architecture
-2. Efficient preprocessing of fluid flow data
-3. Metrics calculation and evaluation
-4. Visualization of prediction result
+1. **Advanced deep learning model architecture:** Our project employs a multi-layer perceptron (MLP) neural network architecture to effectively capture complex relationships within the fluid flow data.
+
+2. **Efficient preprocessing of fluid flow data:** The project includes a data preprocessing pipeline that transforms raw data into a suitable format for training the deep learning model. This pipeline ensures data quality and enhances prediction accuracy.
+
+3. **Comprehensive data analysis:** Extensive data analysis was conducted to uncover valuable insights about fluid flow patterns and relationships with aircraft parameters. This analysis informed our preprocessing and modeling decisions, leading to more accurate predictions.
+
+4. **Metrics calculation and evaluation:** The project calculates key metrics such as Root Mean Squared Error (RMSE) and Precision, Recall, and F1 Score to assess the model's performance. These metrics provide a quantitative measure of predictive accuracy.
+
+5. **Visualization of prediction result:** Our project includes visualization tools to showcase prediction results. Screenshots of error histograms, histograms, and loss vs. epoch plots provide visual insights into the model's performance.
+
+
+## Data Analysis
+Understanding the dataset is a crucial step in our project. We performed extensive data analysis to uncover insights about fluid flow patterns and their relationships with various aircraft parameters. Our analysis included the following:
+
+- Descriptive statistics to understand central tendencies and distributions.
+- Correlation analysis to identify key relationships between variables.
+- Data visualization through scatter plots, line plots, and more.
+- Feature importance analysis to determine influential predictors.
+- 
+These insights guided our preprocessing and modeling strategies, enhancing the effectiveness of our predictions.
 
 ## Screenshots
 ### Error Histogram
