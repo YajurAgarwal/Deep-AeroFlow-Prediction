@@ -41,6 +41,9 @@ To use Deep-AeroFlow for predicting fluid flow on airplanes:
 4. Visualization of prediction result
 
 ## Screenshots
+![Error Histogram](Output/error_histogram.png )
+![Histogram](Output/histogram.png)
+![Loss VS Epoch](Output/loss_vs_epoch.png)
 
 ## Technical Details
 - Neural Network Architecture: Multi-layer perceptron (MLP)
