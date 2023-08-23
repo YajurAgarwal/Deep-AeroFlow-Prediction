@@ -1,8 +1,8 @@
-# Deep-AeroFlow: Deep Learning for Aircraft Fluid Flow Prediction
+# Deep-AeroFlow: Deep Learning for Aircraft Fuel Flow Prediction
 
 ![Deep-AeroFlow Logo](Images/deepaeroflow_logo.png)
 
-Deep-AeroFlow is a machine learning project that aims to predict fluid flow patterns on airplanes using deep learning techniques. By leveraging neural networks and advanced modeling, Deep-AeroFlow provides insights into aerodynamics and helps enhance aircraft performance.
+Deep-AeroFlow is a machine learning project that aims to predict fuel flow patterns in airplanes using deep learning techniques. By leveraging neural networks and advanced modeling, Deep-AeroFlow provides insights into fuel consumption and helps optimize aircraft efficiency.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ To set up Deep-AeroFlow on your system, follow these steps:
    pip install -r requirements.txt
 
 ## Usage
-To use Deep-AeroFlow for predicting fluid flow on airplanes:
+To use Deep-AeroFlow for predicting fuel flow in airplanes:
 
 1. Preprocess your dataset using Load_Dataset.py.
 2. Train your deep learning model using the training script.
@@ -38,7 +38,7 @@ To use Deep-AeroFlow for predicting fluid flow on airplanes:
 ## Features and Highlights
 1. **Advanced deep learning model architecture:**
 
-2. **Efficient preprocessing of fluid flow data:**
+2. **Efficient preprocessing of fuel flow data:**
 
 3. **Comprehensive data analysis:**
 
@@ -48,7 +48,7 @@ To use Deep-AeroFlow for predicting fluid flow on airplanes:
 
 
 ## Data Analysis
-Understanding the dataset is a crucial step in our project. We performed extensive data analysis to uncover insights about fluid flow patterns and their relationships with various aircraft parameters. Our analysis included the following:
+Understanding the dataset is a crucial step in our project. We performed extensive data analysis to uncover insights about fuel flow patterns and their relationships with various aircraft parameters. Our analysis included the following:
 
 - Descriptive statistics to understand central tendencies and distributions.
 - Correlation analysis to identify key relationships between variables.
