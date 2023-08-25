@@ -13,7 +13,7 @@ class Config:
     }
 
     callbacks = [
-        #"PlotLossesKerasTF()",
+        "PlotLossesKerasTF()",
         "ModelCheckpoint('best_model.hdf5', monitor='val_loss', verbose=1, save_best_only=True)",
         "ReduceLROnPlateau(monitor='loss', factor=0.2, patience=10, min_lr=0.00001)",
         "EarlyStopping(monitor='loss', patience=10)"
